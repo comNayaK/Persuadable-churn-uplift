@@ -1,0 +1,1410 @@
+customer_id,churn_score,uplift_score,quadrant_label,recommended_action,execution_timestamp
+1154-HYWWO,0.2257,0.1085,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3995-WFCSM,0.856,0.1104,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0258-NOKBL,0.8979,-0.0392,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7855-DIWPO,0.8322,0.082,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2195-ZRVAX,0.7325,0.0483,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5160-UXJED,0.2901,0.0618,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4690-PKDQG,0.8083,0.0859,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0603-OLQDC,0.7478,0.1245,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2868-LLSKM,0.1001,0.0796,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8160-HOWOX,0.851,0.0526,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6217-TOWGS,0.7699,0.1577,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+5172-RKOCB,0.0678,0.0116,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4282-YMKNA,0.8868,0.0759,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4290-BSXUX,0.8601,0.0724,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4779-ZGICK,0.0707,0.0167,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9912-GVSEQ,0.8823,0.0656,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9362-MWODR,0.4543,0.2164,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+3487-EARAT,0.0765,0.0666,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7130-CTCUS,0.6811,0.0589,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1636-NTNCO,0.8473,-0.1532,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+1763-KUAAW,0.127,-0.029,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6696-YDAYZ,0.0764,-0.0069,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8024-XNAFQ,0.0733,-0.0472,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+7815-PDTHL,0.0682,0.0093,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9259-PACGQ,0.7094,0.1863,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+5119-KEPFY,0.7974,0.0494,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7297-DVYGA,0.0903,0.0401,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1950-KSVVJ,0.2649,-0.0418,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0078-XZMHT,0.0667,0.0069,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7729-XBTWX,0.0707,0.0077,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3594-KADLU,0.7283,0.1008,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7351-MHQVU,0.7107,-0.0631,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+6629-CZTTH,0.7852,0.0735,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5996-NRVXR,0.2459,0.0187,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6174-NRBTZ,0.1081,0.1098,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1904-WAJAA,0.0855,-0.0051,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8023-QHAIO,0.3391,0.1086,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0824-VWDPO,0.1897,0.1448,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+8111-RKSPX,0.8937,0.0557,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0326-VDYXE,0.1553,0.1273,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5948-UJZLF,0.8051,0.0191,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8361-LBRDI,0.0736,0.0021,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8792-AOROI,0.0982,0.0071,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2636-OHFMN,0.8377,-0.1428,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+3716-BDVDB,0.8933,0.0944,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0932-YIXYU,0.0768,0.0337,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0872-JCPIB,0.6992,0.1125,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4801-KFYKL,0.4311,0.0374,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3090-QFUVD,0.5577,0.2452,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+8665-UTDHZ,0.6858,0.1212,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4013-GUXND,0.6341,0.2088,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+7410-KTVFV,0.562,0.0653,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8035-BUYVG,0.11,0.094,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1735-XMJVH,0.429,0.1142,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4299-SIMNS,0.8877,0.0658,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6259-WJQLC,0.7596,0.0494,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6906-MPARY,0.2101,0.1112,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0134-XWXCE,0.245,0.0223,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8329-IBCTI,0.5907,0.1236,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8644-XLFBW,0.8986,0.018,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6608-QQLVK,0.856,0.0633,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2333-KWEWW,0.0694,-0.0199,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3976-HXHCE,0.0714,0.0327,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4912-PIGUY,0.8846,0.1532,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+4398-HSCJH,0.8513,0.151,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+8627-ZYGSZ,0.2639,0.0975,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6518-PPLMZ,0.1068,0.0679,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4146-SVFUD,0.7169,0.0603,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0621-CXBKL,0.081,0.0618,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2691-NZETQ,0.8818,0.0999,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1064-FBXNK,0.3854,0.1944,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+8347-GDTMP,0.0715,0.0061,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6891-JPYFF,0.6399,0.1985,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+7442-YGZFK,0.7799,0.0797,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9840-EFJQB,0.8839,0.0888,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8016-NCFVO,0.6088,-0.0913,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+9103-CXVOK,0.5754,0.0295,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2607-DHDAK,0.0914,-0.0327,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0565-JUPYD,0.1284,0.1212,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5144-PQCDZ,0.5618,0.1814,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+6715-OFDBP,0.8908,0.0433,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0749-IRGQE,0.7962,0.2216,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+7841-TZDMQ,0.7817,0.1154,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8651-ENBZX,0.2857,0.2173,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+5947-SGKCL,0.8746,0.0939,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2511-MORQY,0.0976,0.0226,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1391-UBDAR,0.8659,0.1192,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2485-ITVKB,0.8001,0.1793,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+4597-ELFTS,0.0778,0.0426,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2267-WTPYD,0.614,0.0926,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1335-MXCSE,0.0684,0.0202,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2603-HVKCG,0.8425,0.1176,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9801-NOSHQ,0.1048,0.027,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0916-KNFAJ,0.0689,0.0079,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6230-BSUXY,0.896,0.2393,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+2724-FJDYW,0.1087,0.1055,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8654-DHAOW,0.8264,0.0596,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9351-HXDMR,0.0734,-0.0263,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2453-SAFNS,0.1243,0.1175,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7310-EGVHZ,0.5405,0.2527,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+5168-MSWXT,0.9133,-0.0357,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6435-SRWBJ,0.8769,0.0781,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4277-UDIEF,0.6777,0.1326,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4488-PSYCG,0.332,0.0755,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4553-DVPZG,0.5338,0.2339,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+6022-KOUQO,0.5316,0.1165,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1757-TCATG,0.0976,0.0557,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6650-BWFRT,0.0698,0.0406,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9967-ATRFS,0.3335,0.1198,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5568-DMXZS,0.8352,0.121,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4797-MIWUM,0.6279,0.0402,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6261-RCVNS,0.177,0.1297,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3744-ZRRDZ,0.8668,0.0448,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3853-LYGAM,0.7419,0.1496,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+6543-CPZMK,0.7393,0.1184,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6248-TKCQV,0.0661,-0.0014,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0442-TDYUO,0.0805,0.0213,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6972-SNKKW,0.5065,0.2145,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+2984-TBYKU,0.074,-0.0062,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0923-PNFUB,0.8933,0.0198,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2122-SZZZD,0.0895,0.0414,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0297-RBCSG,0.2764,0.1331,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9692-TUSXH,0.8564,0.1126,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0402-OAMEN,0.0658,-0.0069,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0774-IFUVM,0.7222,0.1164,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1465-VINDH,0.8985,0.0063,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0723-VSOBE,0.0994,0.0556,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3845-FXCYS,0.6636,0.0623,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6624-JDRDS,0.5072,0.1243,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4282-ACRXS,0.3481,0.1015,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9919-YLNNG,0.6384,0.1094,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6813-GZQCG,0.07,0.0273,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9894-QMIMJ,0.1979,0.0213,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7851-FLGGQ,0.8133,0.0154,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9805-FILKB,0.0866,0.0695,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5821-MMEIL,0.0701,-0.0518,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+2348-KCJLT,0.1171,0.082,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4514-GFCFI,0.8536,0.0872,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9224-VTYID,0.0697,0.0497,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0052-DCKON,0.1117,0.1121,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5845-BZZIB,0.0717,-0.0073,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2466-FCCPT,0.1034,0.0198,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1755-RMCXH,0.5564,0.1248,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1866-RZZQS,0.8699,0.0901,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0623-EJQEG,0.1122,-0.0014,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0533-BNWKF,0.7091,0.1712,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+9347-AERRL,0.1189,0.0949,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0021-IKXGC,0.8975,0.0423,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4441-NIHPT,0.8847,0.0456,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3786-WOVKF,0.1074,0.1166,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6166-ILMNY,0.8819,0.0429,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8865-TNMNX,0.3852,0.1112,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8183-ONMXC,0.8847,0.1045,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5327-XOKKY,0.0655,-0.0106,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5071-FBJFS,0.8197,-0.0153,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1779-PWPMG,0.0683,0.0068,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4159-NAAIX,0.0726,0.0083,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0487-VVUVK,0.2671,0.1307,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0603-TPMIB,0.0771,0.0169,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2983-ZANRP,0.8901,0.0559,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7610-TVOPG,0.5463,0.029,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7549-MYGPK,0.5023,0.2236,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+6823-SIDFQ,0.0925,0.0522,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0230-WEQUW,0.0647,-0.0205,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5383-MMTWC,0.8708,0.0015,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9294-TDIPC,0.4737,0.1894,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+2300-RQGOI,0.07,-0.0135,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0835-DUUIQ,0.091,0.0436,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4636-TVXVG,0.083,0.0635,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9500-IWPXQ,0.0932,0.0777,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4322-RCYMT,0.0923,0.1179,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9489-UTFKA,0.7225,0.1014,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7927-AUXBZ,0.7152,0.158,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+8561-NMTBD,0.1707,0.2214,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+8080-POTJR,0.2396,0.0333,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1452-UZOSF,0.0673,-0.0151,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8292-TYSPY,0.577,0.0279,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5999-LCXAO,0.6115,0.1289,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0264-CNITK,0.0764,-0.0071,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1428-IEDPR,0.1023,0.179,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+4647-XXZAM,0.6589,0.0258,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0407-BDJKB,0.5356,-0.0178,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8444-WRIDW,0.3584,0.0872,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8015-IHCGW,0.0667,0.0511,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9885-AIBVB,0.8321,0.1255,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8915-NNTRC,0.0702,0.0117,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4503-BDXBD,0.8501,0.0957,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0562-HKHML,0.0656,-0.0086,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9227-YBAXE,0.0667,0.0113,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6408-OTUBZ,0.0996,0.0968,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3500-RMZLT,0.7189,0.138,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4636-JGAAI,0.7637,0.148,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+3645-DEYGF,0.6362,0.2087,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+7048-GXDAY,0.7678,0.0366,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2057-BOYKM,0.066,-0.0272,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3158-MOERK,0.8947,-0.0219,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0117-LFRMW,0.2861,0.1944,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+2753-JMMCV,0.0683,-0.0146,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4778-IZARL,0.0719,-0.0307,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1527-SXDPN,0.0911,0.1273,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9061-TIHDA,0.8887,-0.0359,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2293-IJWPS,0.2572,0.3061,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+1707-HABPF,0.3611,0.0338,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6701-DHKWQ,0.0662,-0.0424,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0743-HRVFF,0.1038,0.0768,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5458-CQJTA,0.0681,-0.0119,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1480-BKXGA,0.0713,0.0095,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4236-XPXAV,0.8782,0.023,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2195-VVRJF,0.6617,0.1346,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5052-PNLOS,0.9045,-0.0601,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+4176-RELJR,0.0757,-0.0406,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6298-QDFNH,0.8369,0.0633,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8519-IMDHU,0.8612,0.1178,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7000-WCEVQ,0.6405,0.0209,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9851-QXEEQ,0.8412,0.1708,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+3429-IFLEM,0.0646,-0.0028,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0841-NULXI,0.7676,0.2003,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+2585-KTFRE,0.8581,-0.0797,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+2675-DHUTR,0.7879,0.1002,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3850-OKINF,0.094,0.0777,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6168-YBYNP,0.4922,0.0529,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2858-MOFSQ,0.2404,0.1076,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9214-EKVXR,0.7458,0.1856,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+0362-RAOQO,0.072,-0.0044,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8548-AWOFC,0.2336,0.1568,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+7167-PCEYD,0.0716,-0.0343,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7989-AWGEH,0.2438,0.2792,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+2732-ISEZX,0.5357,0.193,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+7596-IIWYC,0.0677,-0.0235,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3462-BJQQA,0.9057,0.0245,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7760-OYPDY,0.8844,0.0524,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2225-ZRGSG,0.0692,0.0064,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3884-UEBXB,0.0674,-0.0038,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1722-LDZJS,0.1126,0.0449,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7402-PWYJJ,0.1934,0.1103,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5019-GQVCR,0.6853,0.0815,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6896-SRVYQ,0.6926,0.0269,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0531-ZZJWQ,0.5247,0.0228,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2272-UOINI,0.7912,0.026,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3584-WKTTW,0.2215,0.1721,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+5895-QSXOD,0.8449,0.0856,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1213-NGCUN,0.6767,0.1855,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+0968-GSIKN,0.8867,0.087,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3523-QRQLL,0.3177,0.1022,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6024-RUGGH,0.0669,0.0191,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6500-JVEGC,0.1173,0.1247,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4450-YOOHP,0.3563,0.1279,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5429-LWCMV,0.8738,0.1218,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1415-YFWLT,0.905,0.1717,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+1686-STUHN,0.0899,0.0529,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1792-UXAFY,0.8772,0.1335,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8285-ABVLB,0.0688,-0.0368,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0027-KWYKW,0.8344,0.1146,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0420-TXVSG,0.0652,0.01,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7110-BDTWG,0.0653,-0.0016,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5172-MIGPM,0.7714,0.1176,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3082-YVEKW,0.1017,-0.09,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+5986-WWXDV,0.0883,0.0537,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7396-VJUZB,0.6584,0.015,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6518-LGAOV,0.8188,0.1767,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+2045-BMBTJ,0.5114,0.1042,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0330-BGYZE,0.137,0.2368,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+0363-SVHYR,0.0639,0.0238,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2740-JFBOK,0.5622,0.0609,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2612-PHGOX,0.066,-0.0114,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4012-YCFAI,0.0677,0.0165,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5295-PCJOO,0.7815,-0.0272,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1945-XISKS,0.0691,0.0067,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2436-QBZFP,0.5243,0.0735,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4123-FCVCB,0.4295,0.2084,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+8818-DOPVL,0.8497,0.1419,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+2266-FUBDZ,0.0871,0.0672,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4077-CROMM,0.8485,0.2803,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+2812-REYAT,0.0837,0.0468,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5565-FILXA,0.8615,-0.042,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4853-RULSV,0.0747,0.023,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5222-IMUKT,0.7725,0.0765,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2656-TABEH,0.9116,-0.0171,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7576-OYWBN,0.9043,0.0098,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4547-LYTDD,0.8449,0.0912,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0196-VULGZ,0.8904,0.0224,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4881-GQJTW,0.3345,0.0476,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1325-USMEC,0.0744,0.0117,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0667-NSRGI,0.1312,0.1509,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+8082-GHXOP,0.7108,0.0579,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1231-YNDEK,0.0683,0.0125,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8215-NGSPE,0.0735,0.0112,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0939-YAPAF,0.837,0.0927,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7129-CAKJW,0.8083,0.1321,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1955-IBMMB,0.068,0.0126,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8263-OKETD,0.7178,0.1145,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2342-CKIAO,0.5656,0.1249,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8617-ENBDS,0.8924,0.0506,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2672-OJQZP,0.719,0.0603,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6116-RFVHN,0.8545,0.0979,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5176-LDKUH,0.1889,0.2287,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+5196-WPYOW,0.0847,0.0898,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2985-FMWYF,0.8715,0.0344,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9306-CPCBC,0.8864,0.0533,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2322-VCZHZ,0.8836,0.104,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4329-YPDDQ,0.7083,0.0534,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4729-XKASR,0.6735,0.1347,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5696-EXCYS,0.0893,0.0452,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7493-GVFIO,0.0775,0.0311,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4671-VJLCL,0.0649,-0.0079,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0691-JVSYA,0.2898,0.0979,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5567-GZKQY,0.0681,-0.0146,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0725-CXOTM,0.2311,0.1167,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3249-ZPQRG,0.9048,0.0215,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2466-NEJOJ,0.5046,0.0551,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8775-CEBBJ,0.5972,0.1164,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2065-MMKGR,0.2201,0.1159,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5461-QKNTN,0.77,0.0667,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5707-ORNDZ,0.8067,0.0133,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9620-ENEJV,0.8729,0.0034,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7929-SKFGK,0.0704,0.0172,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9677-AVKED,0.1749,0.1365,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7140-ADSMJ,0.4628,0.125,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0727-BMPLR,0.498,0.1139,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6996-KNSML,0.8939,0.1476,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+1725-IQNIY,0.0892,0.1218,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5141-ZUVBH,0.8512,0.0094,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3588-WSTTJ,0.8502,0.0157,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2027-OAQQC,0.2955,0.1751,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+3680-CTHUH,0.1432,0.0821,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2746-DIJLO,0.1314,0.0453,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9637-CDTKZ,0.0659,-0.0047,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3096-JRDSO,0.7854,0.2027,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+4712-AUQZO,0.5272,0.1695,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+0436-TWFFZ,0.0672,0.0079,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9137-NOQKA,0.7235,-0.0158,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6283-GITPX,0.0644,0.0011,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6538-POCHL,0.6401,0.0928,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4385-GZQXV,0.842,0.0479,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7730-IUTDZ,0.6805,0.1161,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2379-ENZGV,0.9062,0.0319,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7881-EVUAD,0.8099,0.0295,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7563-BIUPC,0.9009,0.01,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4177-JPDFU,0.6528,0.1089,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7471-WNSUF,0.0861,0.0889,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0529-ONKER,0.8749,0.094,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8818-XYFCQ,0.7952,0.1052,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7647-GYYKX,0.0804,-0.0245,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8668-KNZTI,0.1041,0.0001,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4816-JBHOV,0.8612,-0.036,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1481-ZUWZA,0.8065,0.0809,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4377-VDHYI,0.3718,0.0966,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5351-QESIO,0.6422,0.2068,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+3724-BSCVH,0.3143,0.1289,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2654-VBVPB,0.5437,0.1958,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+8544-GOQSH,0.7205,0.0975,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4472-LVYGI,0.1177,-0.2038,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+8237-ULIXL,0.0683,0.0064,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0112-QWPNC,0.2352,0.1983,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+6629-LADHQ,0.8133,-0.0047,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9944-HKVVB,0.9074,0.0216,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8898-KASCD,0.0932,0.0887,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7727-SHVZV,0.4432,0.0623,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3557-HTYWR,0.0726,-0.0129,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3007-FDPEA,0.5843,0.1173,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9919-KNPOO,0.8777,0.0535,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4833-QTJNO,0.357,0.1037,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6048-UWKAL,0.0671,-0.0047,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7570-WELNY,0.0735,-0.0147,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5049-MUBWG,0.2818,-0.011,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1371-WEPDS,0.1403,-0.011,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9418-RUKPH,0.0714,0.0196,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0265-EDXBD,0.7945,0.003,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6900-PXRMS,0.8687,0.0691,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8468-FZTOE,0.0645,-0.0157,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9738-QLWTP,0.2605,0.1104,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1229-RCALF,0.1137,0.0397,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2821-WARNZ,0.0924,0.0476,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7892-QVYKW,0.84,0.2117,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+4860-YZGZM,0.4311,0.0686,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6184-DYUOB,0.4365,0.1521,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+2794-XIMMO,0.1203,0.0216,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5356-RHIPP,0.6273,0.387,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+9084-OAYKL,0.071,0.0068,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5727-MYATE,0.0635,0.0007,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8637-XJIVR,0.8651,0.0819,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9617-UDPEU,0.0994,0.0593,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2074-GUHPQ,0.7468,0.0554,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0508-SQWPL,0.0666,-0.0037,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8091-TTVAX,0.1678,0.2008,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+8591-TKMZH,0.0827,0.1393,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9512-PHSMG,0.5008,0.02,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7021-XSNYE,0.0881,-0.1728,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+7534-BFESC,0.844,-0.0237,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0818-OCPZO,0.7936,-0.038,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9374-YOLBJ,0.6117,0.026,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3190-ITQXP,0.0693,-0.0136,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8845-LWKGE,0.2912,0.1632,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+1104-FEJAM,0.7201,0.087,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7030-NJVDP,0.8303,0.1627,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+5914-XRFQB,0.0681,0.0365,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8410-BGQXN,0.6212,0.0595,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3845-JHAMY,0.4123,0.0873,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2167-FQSTQ,0.0642,-0.0695,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+4868-AADLV,0.1329,0.0991,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5445-GLVOT,0.6633,0.0856,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6682-QJDGB,0.3254,0.1053,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9917-KWRBE,0.2219,0.112,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7196-LIWRH,0.0797,0.0023,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3351-NQLDI,0.1075,0.0879,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8896-BQTTI,0.668,0.2285,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+1173-NOEYG,0.8324,0.1251,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9158-VCTQB,0.5463,-0.0058,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9101-NTIXF,0.6499,0.019,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4647-MUZON,0.857,0.1731,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+3797-FKOGQ,0.8632,0.1783,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+6034-YMTOB,0.858,0.0258,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5751-USDBL,0.0694,0.0224,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7746-QYVCO,0.3533,0.0772,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5178-LMXOP,0.9046,0.0105,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2361-FJWNO,0.0911,0.0762,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3518-PZXZQ,0.8021,0.0439,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0197-PNKNK,0.1131,0.0623,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9878-TNQGW,0.8969,0.0379,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3243-ZHOHY,0.1553,0.0596,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4927-WWOOZ,0.9031,0.0382,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8232-CTLKO,0.0692,-0.0041,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0541-FITGH,0.8262,0.0269,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5917-HBSDW,0.2649,0.0266,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7925-PNRGI,0.4092,0.2291,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+2479-BRAMR,0.4971,0.2027,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+2904-GGUAZ,0.0736,-0.0173,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1866-ZSLJM,0.4046,0.1289,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4640-UHDOS,0.7433,0.0546,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6490-FGZAT,0.4664,0.187,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+9046-JBFWA,0.2383,0.0589,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3647-GMGDH,0.752,0.1982,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+1307-TVUFB,0.678,0.0281,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1098-TDVUQ,0.6159,0.1146,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1219-NNDDO,0.878,0.0702,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0196-JTUQI,0.8354,0.1361,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3181-MIZBN,0.3498,0.0584,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7318-EIVKO,0.8039,0.1051,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0867-MKZVY,0.8281,0.1297,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7274-RTAPZ,0.906,0.0885,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9819-FBNSV,0.6581,0.0354,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0925-VYDLG,0.8984,0.0589,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8461-EFQYM,0.114,0.0426,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3170-NMYVV,0.0691,-0.0331,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1017-FBQMM,0.1209,0.1952,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+0823-HSCDJ,0.4873,0.0562,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8706-HRADD,0.5232,0.1308,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2055-SIFSS,0.2508,0.1175,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6976-BWGLQ,0.0706,-0.0016,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3445-HXXGF,0.2983,0.0932,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3623-FQBOX,0.3273,0.1446,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+2073-QBVBI,0.0922,0.0896,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6609-MXJHJ,0.0683,0.0103,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6772-KSATR,0.8856,0.1536,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+6365-HITVU,0.064,-0.0345,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5442-UTCVD,0.8903,0.0005,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3863-QSTYI,0.3057,0.2486,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+8063-GBATB,0.8278,0.1127,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9924-JPRMC,0.0704,0.0436,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5321-NTRKC,0.068,-0.003,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3571-RFHAR,0.4596,0.2842,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+2030-BTZRO,0.0782,0.0075,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3221-CJMSG,0.4098,0.0824,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9897-KXHCM,0.8903,0.0499,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1574-DYCWE,0.0777,0.02,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1187-WILMM,0.0706,0.0144,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1843-TLSGD,0.0723,0.0507,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1567-DSCIC,0.9105,-0.1011,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+3002-WQZWT,0.7265,0.0979,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2637-FKFSY,0.7401,0.0429,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7878-RTCZG,0.5754,0.2553,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+2522-WLNSF,0.2786,0.1186,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2606-RMDHZ,0.632,0.0784,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7718-UPSKJ,0.1011,0.0882,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9576-ANLXO,0.893,0.0493,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2371-JUNGC,0.3859,0.1274,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9415-TPKRV,0.7289,0.0411,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5473-KHBPS,0.2964,0.1594,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+1853-ARAAQ,0.5433,0.1387,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8257-RZAHR,0.714,0.0981,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5982-XMDEX,0.0794,-0.0035,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6139-ZZRBQ,0.0667,-0.0743,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+8676-TRMJS,0.8723,0.0363,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1448-CYWKC,0.1844,0.1699,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+0742-MOABM,0.6533,0.0502,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3507-GASNP,0.0737,-0.0239,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8399-YNDCH,0.6634,0.0976,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7188-CBBBA,0.1225,0.0305,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5799-JRCZO,0.0718,-0.0191,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1535-VTJOQ,0.0694,-0.0385,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7821-DPRQE,0.3915,0.1413,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5707-ZMDJP,0.0705,0.0167,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8107-KNCIM,0.8792,0.0809,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6986-IJDHX,0.6064,0.1666,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+5474-LAMUQ,0.1192,0.1083,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5232-NXPAY,0.0694,-0.0192,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6591-QGOYB,0.5643,0.0189,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0988-JRWWP,0.8166,0.0979,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6979-ZNSFF,0.8923,0.0151,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4971-PUYQO,0.8728,0.1214,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6578-KRMAW,0.7351,0.1319,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9357-UJRUN,0.3773,0.0674,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2243-FNMMI,0.3019,0.0888,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0447-RXSGD,0.8243,0.1363,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5577-OTWWW,0.329,0.0695,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1452-VOQCH,0.8893,0.1828,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+1907-YLNYW,0.8358,0.1356,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3597-YASZG,0.0717,-0.0217,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4702-HDRKD,0.0769,0.0282,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4929-BSTRX,0.822,0.0409,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5934-TSSAU,0.8501,0.0761,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5712-VBOXD,0.5229,0.1972,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+0129-KPTWJ,0.4191,-0.0112,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6849-OYAMU,0.3164,0.1714,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+1839-FBNFR,0.0769,-0.024,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2514-GINMM,0.8914,0.1116,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7921-BEPCI,0.0659,-0.0343,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7636-OWBPG,0.5385,0.0609,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1839-UMACK,0.0922,0.0227,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9444-JTXHZ,0.8928,0.123,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5902-WBLSE,0.0712,0.0228,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1612-EOHDH,0.7602,0.0528,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5346-BZCHP,0.0813,0.0489,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2011-TRQYE,0.5447,0.0613,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7564-GHCVB,0.0723,0.0124,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9258-CNWAC,0.0676,0.0441,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8945-MUQUF,0.333,0.0917,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4704-ERYFC,0.8487,0.0621,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3346-BRMIS,0.8161,0.0117,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9696-RMYBA,0.8884,0.0404,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9931-DCEZH,0.2072,0.059,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1166-PQLGG,0.0759,0.0177,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1156-ZFYDO,0.5946,0.0177,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2558-BUOZZ,0.189,0.1344,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8469-SNFFH,0.0875,0.0793,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9992-UJOEL,0.8484,0.053,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9473-CBZOP,0.219,0.1216,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1705-GUHPV,0.0831,0.0228,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2995-YWTCD,0.0693,-0.0258,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9206-GVPEQ,0.7212,0.1841,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+3891-NLXJB,0.0664,-0.0392,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1320-REHCS,0.8138,-0.0247,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0422-OHQHQ,0.1714,0.0588,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6457-GIRWB,0.8933,0.0944,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8148-WOCMK,0.0823,-0.0032,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7011-CVEUC,0.7456,0.2009,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+7379-FNIUJ,0.9062,-0.0603,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+6464-KEXXH,0.5072,0.1217,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9239-ZBZZV,0.8138,-0.0342,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0356-OBMAC,0.0964,-0.0121,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0040-HALCW,0.0772,0.002,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7675-OZCZG,0.8279,-0.0314,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2737-WFVYW,0.845,0.0623,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4652-ODEVH,0.0719,-0.02,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2253-KPMNB,0.065,-0.047,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+9691-HKOVS,0.114,-0.0342,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3785-KTYSH,0.0759,0.0021,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5789-LDFXO,0.1002,0.0145,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0136-IFMYD,0.0788,0.0585,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7621-VPNET,0.626,0.1004,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0019-EFAEP,0.0759,0.0199,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8901-HJXTF,0.5138,0.1728,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+5980-BDHPY,0.064,-0.0,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9488-HGMJH,0.8988,0.018,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6196-HBOBZ,0.0739,-0.0183,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7916-VCCPB,0.8531,0.0793,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6131-JLWZM,0.3951,0.1501,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+7508-MYBOG,0.8587,0.1062,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0042-RLHYP,0.0804,0.0067,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6906-ANDWJ,0.8342,0.1362,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4546-FOKWR,0.81,0.1012,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6576-FBXOJ,0.2325,0.1061,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6362-QHAFM,0.3498,0.2366,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+9350-VLHMB,0.6603,-0.0006,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4813-HQMGZ,0.887,0.022,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8099-MZPUJ,0.0881,0.0307,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8008-OTEZX,0.0999,0.0646,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4846-WHAFZ,0.7822,0.0606,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1734-ZMNTZ,0.0792,0.0854,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1751-NCDLI,0.8573,0.0792,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9746-YKGXB,0.0951,0.0572,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7446-YPODE,0.7145,0.0727,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5590-BYNII,0.8346,0.0961,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5278-PNYOX,0.0831,0.0366,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3898-GUYTS,0.7868,0.0338,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3658-QQJYD,0.106,0.0794,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1465-WCZVT,0.408,0.1624,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+2581-VKIRT,0.0869,0.127,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8766-PAFNE,0.064,-0.0006,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8868-GAGIO,0.5076,0.1497,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+1699-TLDLZ,0.0737,0.0012,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6358-LYNGM,0.8892,0.1828,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+4193-IBKSW,0.067,0.0131,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8622-ZLFKO,0.9011,0.0027,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6910-HADCM,0.8916,0.1194,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9895-VFOXH,0.6423,0.207,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+6086-ESGRL,0.8732,0.1048,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9584-EXCDZ,0.8173,0.1166,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0856-NAOES,0.7532,-0.0288,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5651-CPDND,0.6199,0.0604,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6035-BXTTY,0.5785,0.0134,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8610-WFCJF,0.5986,-0.0332,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1849-RJYIG,0.8185,0.0292,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9477-LGWQI,0.0666,0.0007,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7103-IPXPJ,0.2025,0.1711,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+5995-WWKKG,0.1017,0.0557,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7605-BDWDC,0.0708,-0.0771,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+9921-EZKBY,0.8019,0.0479,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9470-XCCEM,0.7854,0.1268,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6326-MTTXK,0.9108,-0.0422,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8029-XYPWT,0.069,0.0144,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1492-QGCLU,0.5875,0.2306,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+9057-MSWCO,0.3675,0.1481,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+6080-TCMYC,0.7788,0.0799,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9027-TMATR,0.0736,0.0795,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7153-CHRBV,0.0841,0.1082,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9272-LSVYH,0.819,0.1083,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7879-CGSFV,0.1877,0.1265,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4741-WWJQZ,0.8751,0.0728,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2911-WDXMV,0.8428,0.1138,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7321-KKSDU,0.0678,0.0074,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0428-IKYCP,0.8152,0.1891,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+9146-JRIOX,0.415,0.1821,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+7225-IILWY,0.0729,-0.0014,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6121-VZNQB,0.5693,0.1796,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+3717-OFRTN,0.5442,0.0617,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3312-UUMZW,0.7578,0.0937,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2796-NNUFI,0.0732,0.0206,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7567-ECMCM,0.8307,0.1044,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4501-VCPFK,0.6529,0.1,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5949-XIKAE,0.8924,-0.0582,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+2674-MIAHT,0.8978,0.0208,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7580-UGXNC,0.842,-0.104,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+9508-ILZDG,0.742,0.094,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5684-FJVYR,0.0679,0.002,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6082-OQFBA,0.1004,0.0119,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0795-XCCTE,0.0707,-0.0627,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+2454-RPBRZ,0.8717,0.0891,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2368-GAKKQ,0.0691,0.023,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4581-SSPWD,0.9025,0.0608,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5129-HHMZC,0.0772,0.0129,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7064-FRRSW,0.4911,0.0533,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8314-HTWVE,0.0804,-0.0335,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5202-IVJNU,0.232,0.1847,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+2706-QZIHY,0.0739,0.0573,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9152-AMKAK,0.1134,-0.1437,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+2115-BFTIW,0.7419,0.1,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0839-JTCUD,0.065,-0.007,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4070-OKWVH,0.5482,0.0767,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8402-EIVQS,0.1195,0.1158,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5868-YWPDW,0.9059,0.0285,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3138-BKYAV,0.9003,0.0698,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9244-ZVAPM,0.7386,0.0814,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2207-RYYRL,0.074,0.0183,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6598-KELSS,0.0872,0.0831,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6402-ZFPPI,0.8338,0.1389,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0064-SUDOG,0.0758,-0.0237,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4429-WYGFR,0.4847,0.149,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+7544-ZVIKX,0.172,0.1892,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+7943-RQCHR,0.9063,-0.1342,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+0487-CRLZF,0.0679,-0.0034,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5609-IMCGG,0.8104,0.0941,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8535-SFUTN,0.5953,0.2173,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+4065-JJAVA,0.8306,0.0249,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3126-WQMGH,0.2382,0.1354,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1307-ATKGB,0.8585,0.1167,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9732-EQMWY,0.744,0.0077,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9611-CTWIH,0.8989,0.0838,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1697-LYYYX,0.0833,0.0488,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4060-LDNLU,0.9015,-0.0555,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+8595-SIZNC,0.1107,-0.0136,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7336-RLLRH,0.2718,0.0042,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3247-MHJKM,0.5712,0.3164,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+5562-BETPV,0.3746,0.1196,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4760-XOHVN,0.5997,0.1081,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7526-BEZQB,0.8805,0.0073,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0225-ZORZP,0.8866,0.0307,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2430-RRYUW,0.0805,0.0259,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6806-YDEUL,0.6269,0.1091,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3916-NRPAP,0.8865,0.0853,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4774-HHGGS,0.0924,0.0358,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7450-NWRTR,0.9044,0.0458,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8874-EJNSR,0.0691,0.0195,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4955-VCWBI,0.0924,0.0606,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9845-PEEKO,0.0738,-0.0731,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+5229-DTFYB,0.088,-0.0435,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+5457-COLHT,0.0651,0.0092,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4293-ETKAP,0.0657,-0.0061,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8095-WANWK,0.6539,0.1352,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7641-TQFHN,0.1137,0.0786,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7328-ZJAJO,0.0749,0.0421,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3108-PCCGG,0.0649,-0.0008,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7677-SJJJK,0.257,0.0948,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7206-PQBBZ,0.8857,0.1008,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4980-URKXC,0.097,0.042,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9430-FRQOC,0.8694,0.1055,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2749-CTKAJ,0.1211,0.0272,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3810-DVDQQ,0.0688,0.0366,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5966-EMAZU,0.138,0.2352,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+8232-UTFOZ,0.0676,-0.0031,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2834-JKOOW,0.1706,-0.0782,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+8316-BBQAY,0.0645,-0.0286,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3823-KYNQY,0.2184,0.0844,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2325-WINES,0.2461,0.1461,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+3196-NVXLZ,0.7586,0.1132,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2402-TAIRZ,0.3071,0.0966,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8311-UEUAB,0.0711,0.0521,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2683-BPJSO,0.8455,0.0271,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1193-RTSLK,0.6248,0.1184,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6432-TWQLB,0.8659,0.1153,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6439-GTPCA,0.6816,0.1605,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+1323-OOEPC,0.4685,0.2168,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+4067-HLYQI,0.5983,0.1073,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3583-EKAPL,0.845,0.0715,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5686-CMAWK,0.4431,0.1512,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+4803-LBYPN,0.2359,0.1328,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2878-DHMIN,0.1045,0.0316,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6857-TKDJV,0.0746,-0.0192,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1262-OPMFY,0.8633,0.1111,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9330-VOFSZ,0.0777,0.0929,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5839-SUYVZ,0.714,0.1437,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+1502-XFCVR,0.1696,0.2214,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+9916-AYHTC,0.0751,-0.0321,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4911-BANWH,0.7566,0.0992,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1328-EUZHC,0.0703,-0.0256,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9586-JGQKH,0.0726,0.0712,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3208-YPIOE,0.6438,0.1069,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7096-ZNBZI,0.0699,0.0062,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2720-WGKHP,0.906,-0.0255,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2077-MPJQO,0.8979,-0.0512,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+4919-MOAVT,0.8948,0.0525,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3097-NNSPB,0.8236,0.0487,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8883-GRDWQ,0.3322,-0.011,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7114-AEOZE,0.0658,-0.0411,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5996-EBTKM,0.0645,0.0166,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6952-OMNWB,0.5881,0.0483,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2754-XBHTB,0.8638,0.0719,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1685-BQULA,0.674,0.029,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9504-DSHWM,0.5296,0.0466,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1163-ONYEY,0.5594,0.1049,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6848-HJTXY,0.0715,0.0166,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1240-HCBOH,0.0791,0.0188,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5542-DHSXL,0.7911,-0.1061,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+3148-BLQJT,0.574,0.314,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+5863-OOKCL,0.3237,0.1105,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0094-OIFMO,0.9053,0.0927,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5063-IUOKK,0.0803,-0.0247,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4685-ERGHK,0.1135,0.0962,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5701-ZIKJE,0.6119,0.2052,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+2236-HILPA,0.0656,-0.0183,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2378-VTKDH,0.5662,0.4548,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+0730-BGQGF,0.0641,-0.0072,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0983-TATYJ,0.1215,0.1207,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6507-DTJZV,0.7221,0.1981,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+1907-UBQFC,0.8938,0.0512,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2486-WYVVE,0.2439,0.0651,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3009-JWMPU,0.1274,0.027,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0003-MKNFE,0.6142,0.114,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9685-WKZGT,0.8696,0.0511,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4629-NRXKX,0.8928,0.0322,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3948-FVVRP,0.658,0.1383,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7957-RYHQD,0.6376,0.0419,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7989-VCQOH,0.8107,0.1673,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+7029-IJEJK,0.084,0.0476,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6386-SZZKH,0.1019,0.0872,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0303-WMMRN,0.5178,0.1773,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+1741-WTPON,0.097,0.1347,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9589-ABEPT,0.0718,0.0058,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4098-NAUKP,0.5213,0.1775,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+1814-DKOLC,0.6033,0.1034,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3420-YJLQT,0.9005,0.0906,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2038-YSEZE,0.5247,0.1808,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+8966-OIQHG,0.1027,0.0345,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6999-CHVCF,0.0763,-0.0321,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6082-GLJIX,0.369,0.0332,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9392-XBGTD,0.0673,-0.0011,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7078-NVFAM,0.4989,0.2374,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+4634-JLRJT,0.6278,0.3789,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+6484-LATFU,0.0727,0.017,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8627-EHGIP,0.1067,0.078,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5402-HTOTQ,0.7352,-0.0008,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7542-CYDDM,0.3008,0.1255,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7089-IVVAZ,0.8834,0.0306,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7102-JJVTX,0.3065,0.0868,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3026-ATZYV,0.2724,0.017,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6169-PPETC,0.068,0.0031,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8084-OIVBS,0.2096,0.1067,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3059-NGMXB,0.7419,0.2275,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+1194-SPVSP,0.5568,0.0661,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1891-UAWWU,0.8902,0.0845,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3519-ZKXGG,0.9022,0.0622,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8241-JUIQO,0.1076,0.0315,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3981-QSVQI,0.4615,0.0778,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5174-RNGBH,0.7674,0.1123,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7801-CEDNV,0.3342,0.144,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+6114-TCFID,0.123,0.0437,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3154-HMWUU,0.0681,-0.0158,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0674-GCDXG,0.0673,-0.0111,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3577-AMVUX,0.7881,-0.0192,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1073-XXCZD,0.0718,0.0019,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0187-QSXOE,0.9041,0.0311,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9702-AIUJO,0.0907,0.0703,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2252-ISRNH,0.7903,-0.0166,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4324-BZCKL,0.6323,0.03,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2482-CZGBB,0.8468,0.077,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2012-NWRPA,0.9114,0.0543,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8245-UMPYT,0.85,-0.0371,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4745-LSPLO,0.6256,0.2345,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+0895-UADGO,0.0849,0.0092,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7558-IMLMT,0.0683,0.0224,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2589-AYCRP,0.0969,0.0471,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7112-OPOTK,0.6379,0.0694,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8514-VZHEB,0.0775,0.0199,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9833-TGFHX,0.4302,0.0607,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2930-UOTMB,0.5642,0.1686,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+5126-RCXYW,0.0652,-0.0077,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6127-IYJOZ,0.8118,0.0191,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4671-LXRDQ,0.7745,0.01,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7967-HYCDE,0.8361,0.0897,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6284-KMNUF,0.3477,0.1111,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7234-KMNRQ,0.3219,0.1637,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+2108-GLPQB,0.5217,0.0644,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8006-PYCSW,0.5612,0.128,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4450-DLLMH,0.8904,0.0434,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9087-EYCPR,0.0772,0.0159,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9254-RBFON,0.3343,0.1576,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+9128-CPXKI,0.0712,-0.0249,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5940-NFXKV,0.8151,0.1468,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+6374-AFWOX,0.0706,0.0031,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1569-TTNYJ,0.9058,-0.006,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0877-SDMBN,0.1997,0.2055,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+6641-XRPSU,0.615,0.0805,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6275-YDUVO,0.9025,0.0091,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7606-BPHHN,0.0717,-0.0149,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6445-TNRXS,0.0719,0.088,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5480-HPRRX,0.6982,0.0399,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5712-PTIWW,0.8781,0.1354,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1376-HHBDV,0.549,0.1083,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6518-KZXCB,0.0681,0.0339,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0337-CNPZE,0.8499,0.0651,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7080-TNUWP,0.1246,0.0979,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4522-AKYLR,0.8236,0.011,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1852-QSWCD,0.0698,0.001,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0739-UUAJR,0.0643,0.0077,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4662-EKDPQ,0.7855,0.1133,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2988-PLAHS,0.6561,0.0397,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1221-GHZEP,0.0656,-0.0049,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1534-OULXE,0.0813,0.0521,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3908-MKIMJ,0.0687,-0.0015,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2072-ZVJJX,0.0698,0.0029,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5293-WXJAK,0.8641,0.1064,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6437-UKHMV,0.8988,-0.0021,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2251-PYLPB,0.064,-0.0048,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1352-VHKAJ,0.6974,0.1687,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+4580-TMHJU,0.5238,0.0546,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1016-DJTSV,0.8965,0.011,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8450-UYIBU,0.6137,0.1311,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7901-HXJVA,0.855,0.112,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9631-RXVJM,0.085,0.0282,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9558-IHEZX,0.0682,-0.0261,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7067-KSAZT,0.1754,0.2898,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+3936-QQFLL,0.5675,0.0931,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0620-DLSLK,0.8127,0.1338,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4115-BNPJY,0.0817,-0.0694,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+8908-NMQTX,0.0634,-0.0346,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3156-QLHBO,0.6357,0.0228,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2108-YKQTY,0.7493,0.081,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4257-GAESD,0.7217,0.0853,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3005-TYFRD,0.5754,0.2422,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+0895-DQHEW,0.6225,0.334,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+6419-ZTTLE,0.1294,-0.0183,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6243-OZGFH,0.626,0.1733,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+2604-IJPDU,0.8169,0.1119,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3737-XBQDD,0.8063,0.0887,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1122-JWTJW,0.8832,0.0845,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7061-OVMIM,0.0964,0.0598,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5035-PGZXH,0.3539,0.2977,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+6100-FJZDG,0.097,0.0274,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1666-JXLKU,0.8285,0.1177,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5747-PMBSQ,0.8594,0.0152,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2189-WWOEW,0.8331,0.1307,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7979-CORPM,0.8322,0.1182,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0689-NKYLF,0.8637,0.1162,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4548-SDBKE,0.9011,0.0418,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7880-XSOJX,0.7093,0.0451,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3003-CMDUU,0.8113,0.1363,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1657-DYMBM,0.0769,-0.0111,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4658-HCOHW,0.8461,0.0341,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1635-FJFCC,0.5981,0.1204,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9518-RWHZL,0.1086,0.1268,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2565-JSLRY,0.6919,0.2409,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+2108-XWMPY,0.7731,0.0781,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4700-UBQMV,0.3724,0.1687,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+0048-LUMLS,0.3648,0.0725,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5997-OPVFA,0.0635,-0.0146,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8292-ITGYJ,0.0683,0.0064,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4184-VODJZ,0.1628,-0.0356,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3847-BAERP,0.5027,0.0691,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0774-RMNUW,0.0644,-0.0173,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3902-FOIGH,0.8957,0.041,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2325-ZUSFD,0.0969,0.116,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6061-GWWAV,0.174,0.1217,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5442-BHQNG,0.8894,0.092,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2433-KMEAS,0.6308,0.0491,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7503-QQRVF,0.8592,0.047,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9968-FFVVH,0.0801,0.0466,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4295-YURET,0.0697,-0.0107,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2186-QZEYA,0.5647,0.0357,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3902-MIVLE,0.0666,-0.001,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2229-DPMBI,0.0841,-0.0186,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2097-YVPKN,0.0825,0.012,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6857-VWJDT,0.8995,0.0225,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3780-DDGSE,0.7631,0.0755,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5025-GOOKI,0.282,0.0909,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3370-HXOPH,0.9003,0.0664,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3195-TQDZX,0.6039,0.069,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7047-FWEYA,0.3497,0.169,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+2378-YIZKA,0.0644,-0.0166,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2434-EEVDB,0.069,0.0032,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0946-FKYTX,0.0952,0.0616,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7996-MHXLW,0.0704,0.0114,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4508-OEBEY,0.1356,0.1549,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+7250-EQKIY,0.7884,0.0321,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0186-CAERR,0.1015,0.0616,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9360-OMDZZ,0.8615,0.0545,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3372-KWFBM,0.8247,0.1308,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5027-XWQHA,0.7292,0.0296,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6366-ZGQGL,0.5868,0.1413,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+3401-URHDA,0.1251,0.0904,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4302-ZYFEL,0.0871,0.0311,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7163-OCEQI,0.4048,0.0934,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7706-YLMQA,0.084,0.0503,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1184-PJVDB,0.8765,0.093,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2878-RMWXY,0.0758,-0.0042,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5016-ETTFF,0.5876,0.2019,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+8246-SHFGA,0.3126,0.099,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4201-JMNGR,0.8689,-0.0657,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+4682-BLBUC,0.1548,0.0494,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2612-RRIDN,0.9011,0.0081,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7055-VKGDA,0.2038,0.094,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6257-DTAYD,0.0729,0.0342,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5445-UTODQ,0.8965,-0.0192,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5876-HZVZM,0.66,-0.0849,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+9389-ACWBI,0.8728,0.0334,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1116-DXXDF,0.1324,-0.0587,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+6348-SNFUS,0.0663,-0.0157,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8996-ZROXE,0.1137,0.0016,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6505-OZNPG,0.0933,-0.2681,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+2001-EWBQU,0.0779,0.2095,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+0913-XWSCN,0.4273,0.1313,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3720-DBRWL,0.0671,-0.0067,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6410-LEFEN,0.7209,0.0765,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9732-KPKBW,0.8342,-0.0239,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2882-WDTBA,0.0665,-0.0097,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7668-XCFYV,0.8717,0.0381,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8859-DZTGQ,0.0676,0.0101,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8053-WWDRO,0.6783,0.0735,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3745-HRPHI,0.0647,0.0047,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2845-AFFTX,0.8823,0.1298,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2725-TTRIQ,0.0646,0.0033,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2806-MLNTI,0.3376,0.1902,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+0927-CNGRH,0.5875,0.112,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6572-ADKRS,0.6226,0.1295,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8993-PHFWD,0.5298,0.1249,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4614-NUVZD,0.8835,0.1721,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+8485-GJCDN,0.8938,-0.0014,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7683-CBDKJ,0.818,0.1388,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8486-AYEQH,0.6988,0.0681,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3563-SVYLG,0.0651,-0.0202,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2960-NKRSO,0.7872,0.1294,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7813-ZGGAW,0.5674,0.1623,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+4075-JFPGR,0.3589,0.0679,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0547-HURJB,0.4414,0.0887,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3133-PZNSR,0.0687,0.0221,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9572-MTILT,0.4643,0.1205,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7552-KEYGT,0.0702,-0.0212,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4484-CGXFK,0.8234,0.0197,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0486-LGCCH,0.0811,-0.0052,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3278-FSIXX,0.6885,0.0858,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7410-YTJIK,0.8502,0.0453,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9734-YWGEX,0.8953,0.0123,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7799-LGRDP,0.0777,0.0283,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2731-GJRDG,0.243,0.129,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9251-AWQGT,0.0774,0.0067,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5774-XZTQC,0.5503,0.0361,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3606-SBKRY,0.2075,0.0613,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9313-CDOGY,0.2606,0.0467,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9787-XVQIU,0.8893,0.1828,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+4183-MYFRB,0.8702,0.1047,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5366-IJEQJ,0.86,0.177,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+7515-LODFU,0.0705,-0.076,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+1555-DJEQW,0.0702,0.0371,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0946-CLJTI,0.8295,0.0479,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9277-JOOMO,0.5462,0.07,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0221-NAUXK,0.2204,0.0965,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9396-ZSFLL,0.519,0.1121,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7901-TBKJX,0.7767,0.1216,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7233-DRTRF,0.564,0.1492,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+9575-IWCAZ,0.3358,0.1081,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4291-HYEBC,0.1875,0.0871,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3662-FXJFO,0.0695,-0.0063,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1678-FYZOW,0.8991,0.0109,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3486-HOOGQ,0.0673,0.0061,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3308-MHOOC,0.6336,0.1801,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+8008-ESFLK,0.1749,-0.0141,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4057-FKCZK,0.0801,0.0057,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2951-QOQTK,0.8594,0.0548,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6202-DYYFX,0.5004,0.1765,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+9170-GYZJC,0.5256,0.2129,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+3838-OZURD,0.6564,0.1445,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+8332-OSJDW,0.2184,0.1341,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2302-ANTDP,0.6231,-0.1052,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+4500-HKANN,0.0835,0.0657,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7813-TKCVO,0.0986,0.0311,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8337-MSSXB,0.8569,0.1807,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+5915-DGNVC,0.1343,0.077,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4835-YSJMR,0.0693,0.0135,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6461-SZMCV,0.0639,-0.0233,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6140-QNRQQ,0.8852,0.087,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8512-WIWYV,0.1291,0.1236,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6096-EGVTU,0.1013,0.104,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1273-MTETI,0.909,0.0775,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9614-RMGHA,0.444,0.1134,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3729-OWRVL,0.1021,0.0336,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4317-VTEOA,0.861,0.0388,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2720-FVBQP,0.646,0.1379,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0390-DCFDQ,0.8953,0.0426,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6015-VVHHE,0.8995,0.0136,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8328-SKJNO,0.1844,0.0815,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3506-OVLKD,0.0931,0.0647,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1494-EJZDW,0.0762,0.0703,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2842-BCQGE,0.4401,0.0971,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2578-JQPHZ,0.0953,0.0201,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7044-YAACC,0.902,0.0469,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1488-SYSFC,0.5377,0.114,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2209-XADXF,0.5761,0.1154,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9399-APLBT,0.886,0.1281,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9480-BQJEI,0.1082,0.0713,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5702-KVQRD,0.0673,-0.008,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3796-ENZGF,0.0672,0.0209,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0616-ATFGB,0.731,0.042,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8929-KSWIH,0.1049,0.0502,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8695-ARGXZ,0.795,0.0744,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5448-VWNAM,0.7226,0.0517,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8123-QBNAZ,0.7461,0.23,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+7330-WZLNC,0.9076,-0.0088,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1568-LJSZU,0.065,0.0027,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7103-ZGVNT,0.0842,0.0922,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3410-YOQBQ,0.0738,0.0553,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2640-PMGFL,0.7414,0.0734,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7853-GVUDZ,0.6064,0.3175,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+9351-LZYGF,0.4753,0.2158,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+3057-VJJQE,0.0746,0.0198,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1197-BVMVG,0.9013,0.0034,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2959-FENLU,0.8691,0.1056,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4623-ZKHLY,0.2577,0.1592,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+6458-CYIDZ,0.8908,0.0028,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3249-VHRIP,0.0667,0.0035,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1205-WNWPJ,0.6618,0.1326,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3419-SNJJD,0.4205,0.1219,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8372-JUXUI,0.8875,0.1836,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+8277-RVRSV,0.1105,0.0841,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7740-KKCXF,0.2059,0.1482,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+2722-JMONI,0.8514,-0.037,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1357-BIJKI,0.3804,0.0912,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8348-HFYIV,0.8635,-0.0251,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1976-CFOCS,0.8257,0.0138,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7799-DSEWS,0.7612,0.1825,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+8784-CGILN,0.7412,0.1411,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4529-CKBCL,0.8854,0.0473,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1183-CANVH,0.2773,0.0887,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3946-MHCZW,0.8113,0.0503,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8625-AZYZY,0.8692,0.2117,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+4291-YZODP,0.3336,0.1409,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0750-EBAIU,0.2404,-0.0341,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0111-KLBQG,0.7178,0.1469,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+6754-WKSHP,0.0958,0.0523,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0537-QYZZN,0.8595,0.0687,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3677-TNKIO,0.8029,0.1666,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+9492-TOKRI,0.78,0.1707,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+7966-YOTQW,0.6717,0.0445,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6599-GZWCM,0.373,0.1451,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+6656-GULJQ,0.065,0.0228,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3071-VBYPO,0.8944,-0.0412,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2188-SXWVT,0.1443,0.0582,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7765-LWVVH,0.0744,-0.0154,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0164-XAIRP,0.0707,-0.023,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3272-VUHPV,0.5727,0.1025,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0880-FVFWF,0.6165,0.1073,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9050-IKDZA,0.8896,0.0394,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8065-YKXKD,0.8696,0.0844,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1395-WSWXR,0.0678,-0.0207,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4816-LXZYW,0.7699,0.0992,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6374-NTQLP,0.0752,-0.0608,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+3489-HHPFY,0.886,0.101,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2019-HDCZY,0.072,0.0901,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7267-FRMJW,0.0689,-0.0228,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4349-GFQHK,0.8445,0.0568,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0178-CIIKR,0.3898,0.1513,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+7028-DVOIQ,0.8615,0.0272,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5519-TEEUH,0.095,0.0767,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7205-BAIAD,0.0713,-0.0174,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4926-UMJZD,0.4659,0.1464,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+0596-BQCEQ,0.639,0.0479,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2178-PMGCJ,0.7794,0.0782,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4612-SSVHJ,0.866,0.0805,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4979-HPRFL,0.0719,0.0106,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4674-HGNUA,0.0638,0.0016,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3858-XHYJO,0.2495,0.1302,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6633-SYEUS,0.7567,0.0808,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7096-UCLNH,0.5711,0.2766,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+3070-BDOQC,0.0977,0.0205,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5481-NTDOH,0.1582,0.1887,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+0455-XFASS,0.8902,0.0454,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8902-ZEOVF,0.0956,0.0681,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4859-ZSRDZ,0.0647,0.0022,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6332-FBZRI,0.0834,0.0822,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3030-YZADT,0.5402,0.1064,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9571-EDEBV,0.1241,0.1031,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8785-CJSHH,0.6638,0.122,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4231-LZUYM,0.0674,0.0033,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7649-SIJJF,0.0645,-0.0045,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4311-QTTAI,0.1233,-0.0015,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4654-DLAMQ,0.1157,0.1121,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5599-HVLTW,0.8461,0.0605,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6726-WEXXK,0.5981,0.0466,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5924-IFQTT,0.7851,0.0003,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5038-ETMLM,0.0673,0.0089,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9099-FTUHS,0.554,0.0358,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0816-TSPHQ,0.5674,0.1025,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1112-CUNAO,0.8697,0.0831,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5016-LIPDW,0.0837,0.0618,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3001-UNBTL,0.8814,0.1935,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+3466-BYAVD,0.7421,0.125,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4343-EJVQB,0.8673,-0.0588,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+5598-IKHQQ,0.0667,0.0024,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6859-RKMZJ,0.6071,0.0863,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6465-GSRCL,0.0994,0.2066,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+4797-AXPXK,0.8673,0.0063,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7903-CMPEY,0.8892,0.1283,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0282-NVSJS,0.5409,0.169,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+1309-BXVOQ,0.8369,0.0736,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9426-SXNHE,0.431,0.0029,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0867-LDTTC,0.852,-0.0756,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+0235-KGSLC,0.8959,0.0655,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4335-BSMJS,0.0787,-0.0087,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0488-GSLFR,0.8933,0.0944,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7268-WNTCP,0.069,0.0096,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9720-JJJOR,0.1322,0.0786,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7503-EPSZW,0.0758,0.0279,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6147-CBCRA,0.2973,0.1413,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6615-NGGZJ,0.887,0.0233,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1074-AMIOH,0.5505,-0.0312,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0334-ZFJSR,0.107,0.0974,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2616-UUTFK,0.5332,0.1338,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9274-UARKJ,0.703,0.1895,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+3407-QGWLG,0.5089,0.0739,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9763-GRSKD,0.6207,0.1514,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+4471-KXAUH,0.7244,0.0846,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7998-ZLXWN,0.3201,0.073,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7771-CFQRQ,0.0694,-0.0057,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0365-GXEZS,0.8018,0.1343,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4819-HJPIW,0.2901,0.1336,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3256-EZDBI,0.2338,0.2059,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+9297-EONCV,0.0637,-0.014,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1963-SVUCV,0.7787,0.0528,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3387-PLKUI,0.2544,0.0667,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0612-RTZZA,0.7627,-0.0027,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5405-ZMYXQ,0.8452,0.1198,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3359-DSRKA,0.0712,0.0113,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6013-BHCAW,0.0683,0.0411,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2717-HVIZY,0.4524,0.1012,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7129-ACFOG,0.8308,-0.0824,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+2133-TSRRM,0.7228,-0.02,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4707-MAXGU,0.0681,0.0062,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2070-XYMFH,0.8431,0.082,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6719-FGEDO,0.0675,-0.04,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7018-FPXHH,0.0679,0.0214,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3317-VLGQT,0.8639,0.0895,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5906-DVAPM,0.1204,0.1097,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8070-AAWZP,0.4167,0.1443,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+6734-CKRSM,0.4079,0.1604,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+4581-LNWUM,0.775,0.069,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0587-DMGBH,0.751,0.1103,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0322-YINQP,0.8006,-0.0242,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1585-MQSSU,0.5248,0.0703,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9359-JANWS,0.0653,0.0036,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6416-YJTTB,0.8197,0.1474,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+8670-MEFCP,0.0763,0.0173,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6407-GSJNL,0.0715,0.0011,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0082-LDZUE,0.7458,0.1271,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8429-XIBUM,0.8381,0.0986,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6718-BDGHG,0.1824,0.1644,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+6766-HFKLA,0.0857,0.1287,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4587-VVTOX,0.886,-0.1095,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+4869-EPIUS,0.1268,0.02,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2075-RMJIK,0.6676,0.0243,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5313-FPXWG,0.0887,0.0859,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7233-PAHHL,0.0723,0.0107,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9728-FTTVZ,0.8933,0.0944,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5916-QEWPT,0.873,-0.0191,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8822-KNBHV,0.1922,0.1297,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8473-VUVJN,0.8975,0.0422,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2995-UPRYS,0.2138,0.1773,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+2999-AANRQ,0.0871,-0.0388,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0670-ANMUU,0.0951,0.0783,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4080-IIARD,0.7979,-0.0091,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6368-NWMCE,0.5211,0.0929,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0314-TKOSI,0.6983,0.0069,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9970-QBCDA,0.565,0.0856,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2748-MYRVK,0.102,0.1107,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0301-FIDRB,0.0635,0.0287,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9541-ZPSEA,0.0703,-0.0166,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5365-LLFYV,0.7945,0.0403,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6244-BESBM,0.0699,0.0725,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9629-NHXFW,0.6306,0.1806,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+1548-ARAGG,0.7677,0.0455,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8623-ULFNQ,0.7779,0.1313,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6137-MFAJN,0.3055,0.2162,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+0722-SVSFK,0.9004,0.0139,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4957-TREIR,0.8586,0.0317,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8695-WDYEA,0.8087,-0.0048,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7319-ZNRTR,0.1217,0.0102,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0319-QZTCO,0.76,0.023,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5485-WUYWF,0.8517,-0.0356,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4644-PIZRT,0.3363,0.1607,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+5850-BDWCY,0.5232,0.1907,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+1619-YWUBB,0.0662,0.0007,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2398-YPMUR,0.8782,0.0697,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0454-OKRCT,0.1026,0.0162,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0206-TBWLC,0.1846,0.0974,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1460-UZPRJ,0.0695,0.0091,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5130-YPIRV,0.0656,-0.0276,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4786-UKSNZ,0.5712,0.3164,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+8992-CEUEN,0.4767,0.0166,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4534-WGCIR,0.072,0.0105,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5108-ADXWO,0.8551,0.076,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2790-XUYMV,0.1136,0.0787,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3389-YGYAI,0.8969,-0.1987,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+5044-LRQAQ,0.8599,0.0241,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3508-VLHCZ,0.0646,-0.0023,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1301-LOPVR,0.157,0.0432,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2220-IAHLS,0.6035,0.0545,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9372-TXXPS,0.0644,-0.0038,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6959-GQEGV,0.6961,0.1583,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+9367-WXLCH,0.851,0.0064,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9184-GALIL,0.262,0.1223,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7018-WBJNK,0.8562,0.0622,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2041-JIJCI,0.8737,0.0384,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2034-CGRHZ,0.8637,0.1461,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+2569-WGERO,0.0642,-0.0152,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2673-ZALNP,0.3684,0.0237,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1177-XZBJL,0.1541,0.13,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5127-BZENZ,0.1082,0.04,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6551-GNYDG,0.8408,0.1049,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9777-WJJPR,0.7329,0.1441,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+4855-SNKMY,0.7715,0.1587,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+8947-YRTDV,0.2012,0.1341,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8076-FEZKJ,0.2934,0.1486,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+1241-FPMOF,0.083,0.0177,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1724-IQWNM,0.6336,0.1833,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+5666-MBJPT,0.0756,0.0219,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2294-DMMUS,0.1715,0.2245,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+7325-ENZFI,0.0862,0.081,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0489-WMEMG,0.2803,0.0626,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9309-BZGNT,0.0969,0.0677,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4468-YDOVK,0.6701,0.071,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5922-ABDVO,0.8331,0.1471,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+3097-NQYSN,0.8872,0.1004,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4365-MSDYN,0.4407,0.0509,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2845-KDHVX,0.066,0.0136,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5944-UGLLK,0.1151,0.0977,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5519-YLDGW,0.8818,0.212,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+9079-YEXQJ,0.6517,0.0067,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8069-YQQAJ,0.4043,0.1272,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3705-RHRFR,0.078,0.0028,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4455-BFSPD,0.1383,0.3315,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+1254-IZEYF,0.857,0.01,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3082-WQRVY,0.3067,0.0433,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1750-CSKKM,0.7372,0.1455,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+1135-HIORI,0.1107,0.1337,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5271-YNWVR,0.0706,0.0573,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0324-BRPCJ,0.6371,0.0356,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8984-HPEMB,0.0788,0.0877,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8894-JVDCV,0.123,0.0944,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+9699-UBQFS,0.8394,0.0266,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7869-ZYDST,0.5566,0.1114,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6108-OQZDQ,0.9067,0.003,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2952-QAYZF,0.9022,0.0875,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6734-JDTTV,0.0701,-0.0098,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8975-SKGRX,0.0699,0.0446,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4112-LUEIZ,0.8982,0.1064,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6543-XRMYR,0.8632,0.0671,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9537-JALFH,0.0715,-0.0441,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+8097-VBQTZ,0.349,0.1828,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+8735-IJJEG,0.639,0.1303,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3941-XTSKM,0.165,0.0499,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8647-SDTWQ,0.4166,0.1427,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+5842-POCOP,0.8991,0.0026,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3794-NFNCH,0.5584,0.1285,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2911-UREFD,0.5191,0.1351,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6549-YMFAW,0.5792,0.0701,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3951-NJCVI,0.7784,-0.0117,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6689-VRRTK,0.364,0.0344,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1493-AMTIE,0.6007,0.3156,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+5846-ABOBJ,0.0677,0.0137,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5549-ZGHFB,0.0722,0.0166,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0130-SXOUN,0.3929,0.0207,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2154-KVJFF,0.8191,0.0867,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3331-HQDTW,0.5958,0.0289,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4950-HKQTE,0.0698,0.0154,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2896-TBNBE,0.3782,0.0397,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7089-RKVSZ,0.2881,0.0789,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2580-ASVVY,0.0677,-0.0287,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8701-DGLVH,0.0802,0.0187,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1343-EHPYB,0.7178,0.2048,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+9512-UIBFX,0.8536,0.2167,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+7547-EKNFS,0.6771,0.1363,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1891-QRQSA,0.1012,0.0441,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5835-BEQEU,0.8941,0.0622,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+4248-QPAVC,0.8426,0.1241,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5896-NPFWW,0.8201,0.044,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0886-QGENL,0.8839,0.1787,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+3503-TYDAY,0.5596,0.0923,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9799-CAYJJ,0.9058,0.0242,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1061-PNTHC,0.336,0.1903,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+8265-HKSOW,0.0657,-0.0161,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6615-ZGEDR,0.5816,0.1192,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9921-QFQUL,0.8377,0.1764,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+2560-PPCHE,0.103,0.1778,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+0289-IVARM,0.6753,0.1613,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+2667-WYLWJ,0.2282,0.1236,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7587-RZNME,0.7913,0.0859,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3938-YFPXD,0.0649,-0.0192,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2386-LAHRK,0.822,0.0409,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2080-GKCWQ,0.8994,0.0429,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0380-ZCSBI,0.3707,0.0844,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7115-IRDHS,0.0655,0.0085,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2599-CZABP,0.2832,0.0591,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2408-TZMJL,0.18,0.1347,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5649-VUKMC,0.6046,0.1244,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3234-VKACU,0.8694,0.0622,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+5651-WYIPH,0.7258,0.0052,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9174-FKWZE,0.7765,-0.0143,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9975-GPKZU,0.0705,-0.0304,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4871-JTKJF,0.9043,0.0079,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1355-KUSBG,0.7009,0.0697,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+0607-MVMGC,0.2285,0.1073,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+1818-ESQMW,0.8362,0.2029,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+5510-BOIUJ,0.6034,0.1074,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7216-KAOID,0.0976,0.0472,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8631-XVRZL,0.2085,0.1294,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0114-IGABW,0.0643,-0.0077,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0412-UCCNP,0.0671,0.013,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6178-KFNHS,0.8739,0.099,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+6583-KQJLK,0.8667,0.1753,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+4195-PNGZS,0.068,0.0148,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6172-FECYY,0.5434,0.054,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9739-JLPQJ,0.0718,0.0184,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7228-PAQPD,0.3674,0.1555,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+4315-MURBD,0.785,0.1247,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2450-ZKEED,0.3586,0.1498,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+0141-YEAYS,0.825,0.0786,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3813-DHBBB,0.0649,0.0086,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8033-VCZGH,0.3018,0.3367,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+8267-KFGYD,0.671,0.2276,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+1354-YZFNB,0.0833,0.0481,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0979-MOZQI,0.0647,0.0259,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2320-TZRRH,0.0967,0.0757,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4137-JOPHL,0.0746,0.01,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5696-QURRL,0.7532,0.0851,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+1379-FRVEB,0.8747,0.043,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2252-NKNSI,0.0727,0.0564,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3450-WXOAT,0.2204,0.1049,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6345-HOVES,0.2852,0.1838,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+8749-CLJXC,0.5711,0.2766,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+7337-CINUD,0.0849,-0.0229,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+8565-WUXZU,0.068,-0.0189,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+3301-VKTGC,0.1147,0.0661,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6339-YPSAH,0.8777,0.0965,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+8619-IJNDK,0.0642,-0.0081,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7138-GIRSH,0.0674,-0.0018,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+4301-VVZKA,0.8513,0.0841,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3776-EKTKM,0.8171,0.0851,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7190-XHTWJ,0.0908,0.0587,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7795-CFOCW,0.0892,0.0752,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0562-KBDVM,0.065,-0.0503,Do-Not-Disturb,Strictly Suppress - Outreach Triggers Subscription Cancellation,2026-09-07T01:43:36.498156
+3704-IEAXF,0.064,-0.0059,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5380-XPJNZ,0.0911,0.0497,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7235-NXZCP,0.9044,-0.028,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7964-ZRKKG,0.1032,0.06,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+7586-ZATGZ,0.6695,0.1325,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7860-UXCRM,0.0659,-0.0388,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+5233-GEEAX,0.7889,0.1014,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7521-YXVZY,0.3974,0.1544,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+2923-ARZLG,0.4411,0.1796,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+4568-KNYWR,0.069,0.0031,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2038-OEQZH,0.8935,0.1089,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+2135-RXIHG,0.8128,0.0776,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9114-DPSIA,0.0639,0.0004,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+2014-MKGMH,0.3324,0.1559,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+6333-YDVLT,0.1271,0.2293,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+8313-NDOIA,0.8742,0.2096,Persuadable,Target with 10% Promotional Retention Discount,2026-09-07T01:43:36.498156
+8374-UULRV,0.065,-0.0067,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+0697-ZMSWS,0.8887,0.1259,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+9742-XOKTS,0.1154,0.0778,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
+6356-ELRKD,0.9089,0.0511,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+7239-HZZCX,0.5759,0.1192,Lost Cause,Suppress Offer - Inelastic Churn Risk (Avoid Wasted Spend),2026-09-07T01:43:36.498156
+3227-WLKLI,0.0659,0.0153,Sure Thing,Suppress Offer - High Organic Retention (Avoid Cannibalization),2026-09-07T01:43:36.498156
